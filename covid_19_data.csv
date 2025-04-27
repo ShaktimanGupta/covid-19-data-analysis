@@ -1,0 +1,8 @@
+SNo,ObservationDate,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+1,01/22/2020,,Mainland China,1/22/2020 17:00,548,17,28
+2,01/22/2020,,USA,1/22/2020 17:00,120,5,20
+3,01/22/2020,,Japan,1/22/2020 17:00,80,2,10
+4,01/22/2020,,India,1/22/2020 17:00,90,1,50
+5,01/22/2020,,South Korea,1/22/2020 17:00,70,3,20
+6,01/22/2020,,France,1/22/2020 17:00,60,1,30
+7,01/22/2020,,Germany,1/22/2020 17:00,50,0,25
